@@ -13,8 +13,11 @@ Este projeto buscou através da utilização da IA Generativa trazer um breve re
 - IA Generativa D-ID para criar o vídeo utilizando o avatar e a transcrição do resumo gerado pelo Copilot.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://github.com/user-attachments/assets/ba246ea3-3239-4a56-a432-060cbad40ee4
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+Através deste projeto foi possível colocar em prática o aprendizado teórico das aulas iniciais do Bootcamp CAIXA - IA Generativa com Microsoft Copilot.
+Descobrir e utilizar diferentes IAs Generativas entendendo como elas estão presentes e auxiliando no coditiano foi uma experiência incrivel, principalmente pelo fato de estar iniciando minha jornada no aprendizado de IA.
 ```
