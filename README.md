@@ -2,7 +2,7 @@
 # Utilização da IA no setor bancário ;)
 
 ## 📒 Descrição
-Este projeto buscou através da utilização da IA Generativa trazer um breve resumo da utilização da Inteligência Artifical no setor bancário.
+Este projeto utilizou a IA Generativa para trazer um breve resumo dos benefícios da Inteligência Artifical no setor bancário.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa Copilot;
